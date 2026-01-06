@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "yaoluna.totemofundyingreplacer.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ClientPlayerEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
