@@ -1,4 +1,4 @@
-# TotemOfUndyingReplacer - 不死图腾替换其
+# TotemOfUndyingReplacer - 不死图腾替换器
 
 这是一个 **纯客户端 Fabric Mod**，用于在玩家 **生命值低于最大生命值的 一半 时**，自动从背包中查找 **不死图腾** 并 **放入副手**，以降低意外死亡风险。
 
