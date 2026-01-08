@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "totemofundyingreplacer",
-	"version": "1.0",
+	"version": "1.1",
 	"name": "TotemOfUndyingReplacer",
 	"description": "一个简单的不死图腾替换mod，如果玩家背包里存在不死图腾，处于半血及一下时会自动装备到副手。",
 	"authors": [
